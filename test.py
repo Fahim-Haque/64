@@ -1,1 +1,3 @@
-print("HEllo janu")
+name=input("Enter your name")
+name=name+'!'
+print(name)
