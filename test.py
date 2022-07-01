@@ -6,3 +6,5 @@ fname=input()
 lname=input()
 x=fname+lname
 print(x)
+
+print(x+name)
